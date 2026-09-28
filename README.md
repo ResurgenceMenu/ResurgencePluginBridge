@@ -41,7 +41,8 @@ public class ExampleToggleableMod : Mod
     {
         
     }
-}```
+}
+```
 
 ## Project structure
 
