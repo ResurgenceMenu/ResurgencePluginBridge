@@ -1,7 +1,8 @@
 # Resurgence Plugin Bridge
 
 The Resurgence Plugin Bridge provides the public API used to
-create plugins for Resurgence.
+create plugins for Resurgence, along with enabling plugin
+support in Resurgence.
 
 ## Installation
 
