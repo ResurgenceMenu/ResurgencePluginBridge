@@ -27,7 +27,21 @@ Prevents the plugin from loading on Desktop.
 
 ## Example
 
-[code example]
+```csharp
+[PluginPreferenced]
+[PluginToggleable]
+public class ExampleToggleableMod : Mod
+{
+    public void Update()
+    {
+        
+    }
+
+    public void Start()
+    {
+        
+    }
+}```
 
 ## Project structure
 
