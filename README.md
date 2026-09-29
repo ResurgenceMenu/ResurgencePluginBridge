@@ -12,7 +12,7 @@ Reference ResurgencePluginBridge.dll in your project.
 
 ## Creating a plugin
 
-All plugins must inherit from Mod.
+All features in a plugin must inherit from Mod.
 
 ## Attributes
 
@@ -20,7 +20,7 @@ All plugins must inherit from Mod.
 Makes a plugin toggleable.
 
 ### PluginPreferenced
-Persists the plugin's toggle state.
+Persists the plugin's toggle state. This requires PluginToggleable to function.
 
 ### PluginHideInVR
 Prevents the plugin from loading in VR.
