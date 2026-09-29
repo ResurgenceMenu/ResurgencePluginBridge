@@ -4,6 +4,7 @@ using BepInEx;
 namespace ResurgencePluginBridge;
 
 [BepInPlugin(Constants.Guid, Constants.Name, Constants.Version)]
+[BepInDependency("industry.resurgencev2")]
 public class Plugin : BaseUnityPlugin
 {
     // This class is only here so the mod actually loads.
