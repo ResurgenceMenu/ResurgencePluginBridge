@@ -1,3 +1,5 @@
+(Yes, this README is AI. I still can't do READMEs; don't bully me 😭)
+
 # Resurgence Plugin Bridge
 
 The Resurgence Plugin Bridge provides the public API used to
